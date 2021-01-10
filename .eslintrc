@@ -35,11 +35,11 @@
       {
         "bracketSpacing": true,
         "jsxBracketSameLine": false,
-        "printWidth": 90,
-        "semi": true,
+        "printWidth": 120,
+        "semi": false,
         "singleQuote": true,
-        "tabWidth": 4,
-        "trailingComma": "es5",
+        "tabWidth": 2,
+        "trailingComma": "none",
         "useTabs": true,
         "overrides": [
           {
